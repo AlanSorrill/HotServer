@@ -1,0 +1,1 @@
+{"version":3,"file":"HotServerWebpackConfig.d.ts","sourceRoot":"","sources":["../src/HotServerWebpackConfig.ts"],"names":[],"mappings":"AAAA,OAAgB,EAAE,aAAa,EAAE,MAAM,SAAS,CAAC;AAIjD,iBAAS,kBAAkB,CAAC,QAAQ,EAAE,CAAC,CAAC,EAAE,MAAM,EAAE,CAAC,EAAE,MAAM,EAAE,CAAC,EAAE,GAAG,EAAE,KAAG,IAAI,QAE3E;AACD,QAAA,IAAI,mBAAmB,EAAE,aA8FxB,CAAC;AACF,OAAO,EAAE,mBAAmB,EAAE,kBAAkB,EAAE,CAAA"}

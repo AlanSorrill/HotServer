@@ -1,0 +1,29 @@
+{
+    "name": "hotserver",
+    "version": "0.0.1",
+    "description": "Hot reloading for bot client & server on webpacked express apps",
+    "main": "lib/index.js",
+    "types": "lib/index.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "tsc --declarationMap",
+        "buildWatch": "tsc --declarationMap --watch",
+        "prepare": "npm run build"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.3",
+        "typescript": "^4.6.3",
+        "webpack": "^5.71.0",
+        "webpack-dev-middleware": "^5.3.1",
+        "ws": "^8.5.0"
+    },
+    "devDependencies": {
+        "@types/express": "^4.17.13",
+        "@types/ws": "^8.5.3"
+    },
+    "files": [
+        "lib/**/*"
+    ]
+}
