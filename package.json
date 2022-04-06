@@ -1,5 +1,5 @@
 {
-    "name": "hotserver",
+    "name": "served-hot",
     "version": "0.0.1",
     "description": "Hot reloading for bot client & server on webpacked express apps",
     "main": "lib/index.js",
@@ -10,7 +10,7 @@
         "buildWatch": "tsc --declarationMap --watch",
         "prepare": "npm run build"
     },
-    "author": "",
+    "author": "Alan Sorrill",
     "license": "ISC",
     "dependencies": {
         "express": "^4.17.3",
